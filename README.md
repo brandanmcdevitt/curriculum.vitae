@@ -64,9 +64,9 @@ Certifications and Professional Development
 ------------------------
 
 - 2019:
-  + The Modern Python 3 Bootcamp (Udemy)
+  + The Modern Python 3 Bootcamp (Udemy) [link](https://www.udemy.com/certificate/UC-KAQDGV19/)
 - 2018:
-  + CS50: CS50's Introduction to Computer Science - Harvard University (via edX), [link](link)
+  + CS50: CS50's Introduction to Computer Science - Harvard University (via edX), [link](https://git.io/fjwrV)
   + BT Technologies Prize
-  + Microsoft Technology Associate (MTA): Security Fundamentals, [link](link)
+  + Microsoft Technology Associate (MTA): Security Fundamentals, [link](https://www.youracclaim.com/badges/3b87fa06-c7c9-4736-83d6-e902f038f9e9/linked_in_profile)
 
