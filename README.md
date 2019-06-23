@@ -5,7 +5,7 @@
 * [brandanmcdevitt.com](https://www.brandanmcdevitt.com)
 * [linkedin.com/in/brandanmcdevitt](https://www.linkedin.com/in/brandanmcdevitt/)
 
-> As a Computing Science student, I am enthusiastic to take on new and challenging tasks and consider myself a persistent problem-solver.</br></br>
+> As a Computing Science graduate, I am enthusiastic to take on new and challenging tasks and consider myself a persistent problem-solver.</br></br>
 I am a driven individual with a great interest in programming. This interest has given me the determination to learn more, work hard and move closer to my aspirations of building a career in the world of computing.</br></br>
 I am eager to learn and I strive to excel.
 
