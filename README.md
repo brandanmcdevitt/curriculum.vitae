@@ -5,9 +5,17 @@
 * [brandanmcdevitt.com](https://www.brandanmcdevitt.com)
 * [linkedin.com/in/brandanmcdevitt](https://www.linkedin.com/in/brandanmcdevitt/)
 
-> blah blah
+> As a Computing Science student, I am enthusiastic to take on new and challenging tasks and consider myself a persistent problem-solver.</br></br>
+I am a driven individual with a great interest in programming. This interest has given me the determination to learn more, work hard and move closer to my aspirations of building a career in the world of computing.</br></br>
+I am eager to learn and I strive to excel.
 
-
+Education
+---------
+- 2017 – 2019: **BSc (Hons) Computing Science**, *Ulster University (Jordanstown)*, 2:1
+  + Year 2: Systems Software, Data Communications & Networking, Programming II, Systems Development, Professional Development, Client-Server Application Development, Mobile Development
+   + Year 4: Process Management, Data Analytics, Strategic Information Systems Management, Full-Stack Strategies & Development, Final Year Project
+- 2015 – 2017: **Foundation Degree in Computing**, *Ulster University (South West College)*, Distinction
+  + Programming Mobile Devices, Introduction to Databases, Object-Orientated Programming, Software Testing & Administration, Work Based Learning, Computing Mathematics, Web Information Systems, Software Programming, Computer Technologies, Computer Networks, System Analysis & Design, Professional Development
 
 ## Work Experience
 
@@ -61,9 +69,4 @@ Certifications and Professional Development
   + CS50: CS50's Introduction to Computer Science - Harvard University (via edX), [link](link)
   + BT Technologies Prize
   + Microsoft Technology Associate (MTA): Security Fundamentals, [link](link)
-
-Education
----------
-- 2017 – 2019: **BSc (Hons) Computing Science**, *Ulster University (Jordanstown)*, 2:1
-- 2015 – 2017: **Foundation Degree in Computing**, *Ulster University (South West College)*, Distinction
 
